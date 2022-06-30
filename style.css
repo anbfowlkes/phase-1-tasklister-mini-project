@@ -35,3 +35,19 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+.highp {
+  color: red;
+  margin: 0;
+  padding: 0;
+}
+.medp {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+.lowp {
+  color: green;
+  margin: 0;
+  padding: 0;
+}
